@@ -1,7 +1,7 @@
 """CANTIDAD DE VECES QUE SALE EL NUMERO 3 AL LANZAR N VECES UN DADO"""
 
 print("-------------------")
-print("------N VECES------")
+print("----10 VECES------")
 print("-------------------")
 
 import random
